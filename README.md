@@ -6,7 +6,7 @@ This project is a Quarkus application that demonstrates how to build a reactive 
 ## Prerequisites
 
 - Java 21 or higher
-- Apache Maven 3.6.3 or higher
+- Apache Maven 3.9.9
 - PostgreSQL database
 
 ## Getting Started
